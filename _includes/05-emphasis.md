@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Known Programming Languages:**
+1. Python
+2. C++
+3. C#
+4. R
